@@ -1,0 +1,7 @@
+{
+  "name": "Voice Suite",
+  "description": "A voice-first productivity suite that intelligently routes spoken thoughts to reminders, lists, forms, journals, or ideas using AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
